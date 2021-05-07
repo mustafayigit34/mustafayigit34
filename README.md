@@ -7,3 +7,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafayigit34)](https://github.com/mustafayigit34/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafayigit34&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafayigit34&show_icons=true&theme=radical)
