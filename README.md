@@ -1,4 +1,4 @@
-![Başlıksız-1](https://user-images.githubusercontent.com/65903573/117504776-a8aa9a80-af8b-11eb-952a-76c1f7ac8e2e.png) 
+![Başlıksız-1](https://user-images.githubusercontent.com/65903573/117505301-7a798a80-af8c-11eb-8fdb-f745f140f1b4.png)
 <br>
 - :book: I’m currently studying at Kocaeli University.
 - :computer: I’m currently working on my school projects.
