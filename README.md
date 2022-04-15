@@ -2,7 +2,7 @@
 
 - :book: I’m currently studying at Kocaeli University.
 - :computer: I’m currently improving myself on "Java, Spring Framework, Back-end Development".
-- :mailbox_with_mail: How to reach me: mustafayigitofficial@outlook.com or  mustafayigitofficial@gmail.com 
+- :mailbox_with_mail: How to reach me: mustafayigitofficial@gmail.com 
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafayigit34&layout=compact)](https://github.com/mustafayigit34)
