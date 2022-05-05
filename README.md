@@ -5,7 +5,7 @@
 - :mailbox_with_mail: How to reach me: mustafayigitofficial@gmail.com 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafayigit34&layout=compact)](https://github.com/mustafayigit34)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafayigit34&layout=compact)](https://github.com/mustafayigit345)
 <br>
 
 
